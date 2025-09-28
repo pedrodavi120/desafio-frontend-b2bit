@@ -18,12 +18,15 @@ Exibição de dados de perfil (nome, e-mail, foto).
 Funcionalidade de Logout.
 
 ## ⚙️ Como Executar o Projeto
+
 Pré-requisitos
+
 Node.js (v18+)
 
 Git
 
 Passos
+
 Clone o repositório:
 
 git clone [https://github.com/pedrodavi120/desafio-frontend-b2bit.git](https://github.com/pedrodavi120/desafio-frontend-b2bit.git)
@@ -31,6 +34,7 @@ git clone [https://github.com/pedrodavi120/desafio-frontend-b2bit.git](https://g
 Instale as dependências:
 
 cd desafio-frontend-b2bit
+
 npm install
 
 Execute o projeto:
