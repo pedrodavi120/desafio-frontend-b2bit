@@ -26,7 +26,7 @@ Git
 Passos
 Clone o repositório:
 
-git clone [https://github.com/SEU-NOME-DE-USUARIO/desafio-frontend-b2bit.git](https://github.com/SEU-NOME-DE-USUARIO/desafio-frontend-b2bit.git)
+git clone [https://github.com/pedrodavi120/desafio-frontend-b2bit.git](https://github.com/pedrodavi120/desafio-frontend-b2bit.git)
 
 Instale as dependências:
 
@@ -39,7 +39,8 @@ npm run dev
 
 Aceda a <http://localhost:5173> no seu navegador.
 
-Credenciais de Teste
+### Credenciais de Teste
+
 E-mail: <cliente@youdrive.com>
 
 Senha: password
